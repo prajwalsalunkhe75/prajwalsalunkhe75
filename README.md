@@ -1,4 +1,4 @@
-# Hi 👋, I'm a Computer Science Student
+# Hi 👋, I'm a Computer Engineering Student
 
 ## 👨‍🎓 About Me
 I am a *Computer Science student* of *BE student from Savitri Bai Phule University , Pune  *.  
