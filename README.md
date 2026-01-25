@@ -9,7 +9,7 @@ I am passionate about *web development and programming*, and I focus on keeping 
 ---
 
 ## 💻 Technical Skills
-- *Frontend:* HTML, CSS  
+- *Frontend:* HTML, BootStrap   
 - *Backend:* Node.js  
 - *Programming Language:* Python  
 - *Tools & Technologies:* Git, GitHub, VS Code
